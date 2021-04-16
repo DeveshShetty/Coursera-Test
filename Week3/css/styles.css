@@ -1,0 +1,145 @@
+.name-style{
+	/*font-size: 1.8em;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding: 0px;*/
+	/*font-family: "Lucida Console", "Courier New", monospace;  98ddca*/
+	font-family: "Audiowide", "Courier New", sans-serif;
+}
+
+.nav-style{
+	background-color: #086972;
+}
+.navbar-default .navbar-brand{
+	color: #87dfd6;
+}
+
+/*----------------------------------------------------*/
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+	text-decoration: none;
+}
+.navbar-brand{
+	margin: 20px 20px;
+	padding: 10px 20px;
+	font-size: 1.8em;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.5em;
+  color: #87dfd6;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  }
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #87dfd6;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: 25px;
+  margin-bottom: auto;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #87dfd6;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#nav-list a:hover {
+  background: white;
+}
+
+/*----------------------------------------------------*/
+
+#menu-tile{
+
+	font-family: "Audiowide", "Courier New", sans-serif;
+	margin-bottom: 30px;
+
+}
+
+#Chicken-drive{
+	margin-bottom: 20px;
+}
+
+#Beef-drive{
+	margin-bottom: 20px;
+}
+
+#Shushi-drive{
+	
+	margin-bottom: 20px;
+}
+
+#shshi{
+	padding: 15px 15px 15px 15px;
+	font-size: 1.3em;
+	text-align: justify;
+
+}
+
+#bef{
+	padding: 15px 15px 15px 15px;
+	font-size: 1.3em;
+	text-align: justify;
+}
+
+#chkn{
+	padding: 15px 15px 15px 15px;
+	font-size: 1.3em;
+	text-align: justify;
+}
+
+section div{
+	font-weight: bold;
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+section{
+	border: 1px solid black;
+	background-color: #eac8af; 
+	width: 100%;
+}
+
+.butterchik{
+	background-color: #ffcc29;
+	opacity: 0.8;
+	color: black;
+	border: 1px solid black;
+}
+.buttershu{
+	background-color: #9d65c9;
+	opacity: 0.8;
+	color: black;
+	border: 1px solid black;
+}
+.butterbef{
+	background-color: #ff5722;
+	opacity: 0.8;
+	color: white;
+	border: 1px solid black;
+}
+
+body{
+	background: url("D:/Web dev/Co-Assignment/Week-3/images/rndo1.jpg");
+}
